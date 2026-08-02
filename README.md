@@ -2,7 +2,9 @@
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel&logoColor=white)An end-to-end Business Analytics project that analyzes Blinkit's marketing performance using **SQL**, **Power BI**, and **Excel**. The project identifies high-performing campaigns, marketing channels, target audiences, and business trends to support data-driven marketing decisions.
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel&logoColor=white)
+
+An end-to-end Business Analytics project that analyzes Blinkit's marketing performance using **SQL**, **Power BI**, and **Excel**. The project identifies high-performing campaigns, marketing channels, target audiences, and business trends to support data-driven marketing decisions.
 
 ---
 
