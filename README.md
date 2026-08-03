@@ -141,7 +141,7 @@ The dashboard contains:
 
 # 📷 Dashboard Preview
 
-> ![Dashboard](06_Image/Dashboard_Full.png)
+> ![Dashboard](Blinkit_Marketing_Dashboard.png)
 
 ---
 
